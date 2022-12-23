@@ -1,11 +1,9 @@
-# TODO
+# A Portfolio project by Codecademy: Mixed messages
 
-1) Create a array of messages from classroom of the elite. The message bust be content: the number of episod, the phrase and the name of author.
-2) Create a function for generate a number random by length of array.
-3) Create a function for print a beautiful message.
+This project print random philosophical maxims from anime Classroom of the Elite.
 
-## How message must be printed?
+**For execute this project just run the command:**
 
-E.g: "Episódio {random number}",
-      "{random phrase}.",
-      "{random author name}"
+```nodejs
+node index.js
+```
